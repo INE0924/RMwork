@@ -1,0 +1,5 @@
+# Local CMake/CTest artifacts
+build/
+
+# Generated matching output
+data/result.txt
